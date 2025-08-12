@@ -22,5 +22,6 @@ The goal is to create a decentralized and transparent verification registry that
 
 ## 📍 Contract Address
 
-`SPXXXX...XXXX.teacher-verification` *(Replace with deployed address after deployment)*
+![Uploading Screenshot 2025-08-12 145145.png…]()
+
 
