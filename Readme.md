@@ -22,7 +22,11 @@ The goal is to create a decentralized and transparent verification registry that
 
 ## 📍 Contract Address
 
+contract address- ST3F572123PVSW4WA5E3XK57VER33XYESYX90JWP1.digital-collectibles
+
 <img width="1920" height="1080" alt="Screenshot 2025-08-12 145145" src="https://github.com/user-attachments/assets/5f5dcea7-7571-439a-bd26-47e2eb4b1e09" />
+
+
 
 
 
